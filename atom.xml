@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-06T18:59:21.858Z</updated>
+  <updated>2017-10-08T07:35:03.436Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>诗词</title>
+    <link href="http://yoursite.com/2017/10/08/%E8%AF%97%E8%AF%8D/"/>
+    <id>http://yoursite.com/2017/10/08/诗词/</id>
+    <published>2017-10-08T07:33:53.000Z</published>
+    <updated>2017-10-08T07:35:03.436Z</updated>
+    
+    <content type="html"><![CDATA[<p>《晚登三山还望京邑》</p><p>年代: 南北朝 作者: 谢朓</p><p>灞涘望长安，河阳视京县。</p><p>白日丽飞甍，参差皆可见。</p><p>余霞散成绮，澄江静如练。</p><p>喧鸟覆春洲，杂英满芳甸。</p><p>去矣方滞淫，怀哉罢欢宴。</p><p>佳期怅何许，泪下如流霰。</p><p>有情知望乡，谁能鬒不变。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;《晚登三山还望京邑》&lt;/p&gt;
+&lt;p&gt;年代: 南北朝 作者: 谢朓&lt;/p&gt;
+&lt;p&gt;灞涘望长安，河阳视京县。&lt;/p&gt;
+&lt;p&gt;白日丽飞甍，参差皆可见。&lt;/p&gt;
+&lt;p&gt;余霞散成绮，澄江静如练。&lt;/p&gt;
+&lt;p&gt;喧鸟覆春洲，杂英满芳甸。&lt;/p&gt;
+&lt;p&gt;去矣方滞淫，怀哉罢欢宴。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
